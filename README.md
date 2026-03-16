@@ -1,4 +1,4 @@
-# business-sales-performance-analysisSuperstore Sales Data Analysis Project
+# business-sales-performance-analysis Superstore Sales Data Analysis Project
 📌 Project Overview
 
 This project analyzes a Superstore retail sales dataset to identify key business insights such as sales performance, profitability, regional trends, and customer behavior.
